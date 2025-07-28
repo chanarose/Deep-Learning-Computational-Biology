@@ -3,8 +3,9 @@
 This project was created as part of the *Deep Learning in Computational Biology* course at Bar-Ilan University, under the supervision of Prof. Yaron Orenstein.  
 It focuses on predicting RNAcompete binding intensities from HTR-SELEX data using neural networks.
 
-> **Authors:** Chana Rosenblum and Nir Koren
-> **Grade Received:**  ✅ 95  
+> **Authors:** Chana Rosenblum and Nir Koren.
+> 
+> **Grade Received:** 95  
 > **Date:** August 2024
 
 ---
